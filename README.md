@@ -1,0 +1,2 @@
+# SizeAdjustReadmeImage
+ 手順書用の画像をREADMEmdに入れる際の効率化ツール
